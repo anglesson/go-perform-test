@@ -4,3 +4,4 @@
 2. Calcular a média
 3. Informar se passou
 # go-perform-test
+# go-perform-test
